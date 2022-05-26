@@ -12,3 +12,7 @@ chinedu
 emeka
 thomas
 acada
+james
+mary
+kike
+shawn
